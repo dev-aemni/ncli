@@ -1,0 +1,10 @@
+# Binaries & objects
+ncli
+*.o
+*.out
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+.DS_Store
